@@ -71,3 +71,4 @@ Thus, the so input RDDs, cannot be changed since RDD are immutable in nature.
 Actions are RDD's operation, that value returns back to the spar driver programs, which kick off a job to execute on a cluster.
 Transformation's output is an input of Actions. 
 reduce, collect, takeSample, take, first, saveAsTextfile, saveAsSequenceFile, countByKey, foreach are common actions in Apache spark.
+ 
