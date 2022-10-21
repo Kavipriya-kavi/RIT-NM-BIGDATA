@@ -89,3 +89,4 @@ whereas Java uses the conventional thread-based model for concurrency.
 Access Modifiers in scala are used to define the access field of members of packages, classes or objects in scala.
 For using an access modifier, you must include its keyword in the definition of members of package, class or object.
 These modifiers will restrict accesses to the members to specific regions of code.
+ 
